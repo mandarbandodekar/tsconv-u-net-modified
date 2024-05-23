@@ -1,0 +1,8 @@
+{
+    "timesteps":100,
+    "train_gen": 40,
+    "optimizer": "Adam",
+    "loss": "MeanSquaredError",
+    "learning_rate": 0.01,
+    "epochs": 2
+}
